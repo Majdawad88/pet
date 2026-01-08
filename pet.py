@@ -1,4 +1,4 @@
-#git clone
+#git clone https://github.com/Majdawad88/pet.git
 """
 Introduction to Classes and Object-Oriented Programming (OOP) in Python
 """
